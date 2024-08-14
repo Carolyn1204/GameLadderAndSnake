@@ -4,6 +4,7 @@ Classic Game Ladder and Snake based on Java
 Description
 A classic game ladder and snack!
 It has a board of 10x10 and a number of players and could be played by 2-4 players.
+
 ![image](https://github.com/user-attachments/assets/850f2203-4ff5-4d91-a14a-751483c6c1ed)
 
 
