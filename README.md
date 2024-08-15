@@ -1,4 +1,4 @@
-# GameLadderAndSnake
+# Game Ladder And Snake
 Classic Game Ladder and Snake based on Java
 
 Description
